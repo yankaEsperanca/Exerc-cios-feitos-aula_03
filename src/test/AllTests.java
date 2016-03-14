@@ -10,3 +10,4 @@ import org.junit.runners.Suite.SuiteClasses;
 public class AllTests {
 //não esquecer de apagar no banco o cadastro com ID=13
 }
+
